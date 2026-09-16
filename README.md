@@ -56,7 +56,7 @@ I practiced counting different types of characters in a string and using those v
 
 I also got more comfortable with functions, loops, strings, character checking, and floating-point calculations.
 
-How to Run
+##How to Run
 
 Compile:
 
