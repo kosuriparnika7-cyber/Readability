@@ -52,11 +52,11 @@ What I Learned
 
 This problem helped me break a larger problem into smaller functions.
 
-I practiced counting different types of characters in a string and using those values in a mathematical formula.
+I practiced counting different character types in a string and using those values in a mathematical formula.
 
 I also got more comfortable with functions, loops, strings, character checking, and floating-point calculations.
 
-##How to Run
+# How to Run
 
 Compile:
 
